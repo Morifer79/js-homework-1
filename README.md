@@ -17,8 +17,8 @@
 8. Data Submission Form.
 9. Background change on click.  
 
-## 𝕆𝕡𝕖𝕟 𝕥𝕠 𝕧𝕚𝕖𝕨 𝕚𝕥 𝕚𝕟 𝕥𝕙𝕖 𝕓𝕣𝕠𝕨𝕤𝕖𝕣 :  
-<a href="https://morifer79.github.io/goit-js-hw-06/index.html"><img src="https://badgen.net/badge/🌎 www:/Home Task 6/yellow?icon=browser" alt="Link Badge"/></a>
+## 𝕆𝕡𝕖𝕟 𝕥𝕠 𝕧𝕚𝕖𝕨 𝕚𝕟 𝕥𝕙𝕖 𝕓𝕣𝕠𝕨𝕤𝕖𝕣 :  
+<a href="https://morifer79.github.io/js-homework-1/"><img src="https://badgen.net/badge/🌎 www:/JS HW 1/yellow?icon=browser" alt="Link Badge"/></a>
 
 ## 𝔼𝕞𝕒𝕚𝕝 𝕞𝕖 ᎓  
 Questions, suggestions, help:  
